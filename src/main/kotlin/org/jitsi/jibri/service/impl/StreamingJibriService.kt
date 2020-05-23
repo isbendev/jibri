@@ -31,7 +31,7 @@ import org.jitsi.jibri.status.ComponentState
 import org.jitsi.jibri.util.extensions.error
 import org.jitsi.jibri.util.whenever
 
-private const val YOUTUBE_URL = "rtmp://a.rtmp.youtube.com/live2"
+private const val YOUTUBE_URL = "rtmp://fr.pscp.tv:80/x/"
 private const val STREAMING_MAX_BITRATE = 2976
 
 /**
